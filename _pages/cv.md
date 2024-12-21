@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<ul>{Here}
+    {https://simschmitt.github.io/files/cv.pdf}
+  {% endfor %}</ul>
+
 
 {% include base_path %}
 
