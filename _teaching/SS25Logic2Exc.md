@@ -1,4 +1,3 @@
-
 ---
 title: "Logic 2, Predicate Logic"
 collection: teaching
