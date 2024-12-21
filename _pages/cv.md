@@ -6,6 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<ul>{Here}
-    {https://simschmitt.github.io/files/cv.pdf}
-  {% endfor %}</ul>
+<ul>https://simschmitt.github.io/files/cv.pdf</ul>
