@@ -25,9 +25,9 @@ author:
   name             : "Simon Schmitt"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
-  location         : "Earth"
-  employer         : "Center for Logic, Language, and Cognition (LLC), University of Turin"
-  uri              : "https://www.llc-philosophy.unito.it/"
+  location         : "Turin"
+  employer         : "University of Turin"
+  uri              : "https://simschmitt.github.io//"
   email            : "firstname.lastname@unito.it" 
 
   # Academic websites
