@@ -10,7 +10,7 @@ this gap, I generalize existing literature to cover unrestricted higher-order la
 and develop an absolutist-friendly interpretation of higher-order expressions. The
 theory models key features of natural language, including categorical reference to
 mathematical structures, a type-free truth predicate, and generality absolutism.'
-date: 'under review'
+date: 2010-10-01
 venue: 'Erkenntnis'
 //slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 //paperurl: 'http://academicpages.github.io/files/paper1.pdf'
