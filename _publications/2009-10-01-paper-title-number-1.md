@@ -5,7 +5,7 @@ category: manuscripts
 permalink: 
 excerpt: 'This paper develops a Kripkean truth theory for higher-order languages that is
 compatible with absolute generality.'
-venue: 'Erkenntnis'
+venue: 'under review'
 ---
 
 This paper develops a Kripkean truth theory for higher-order languages that is
