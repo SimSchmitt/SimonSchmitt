@@ -8,4 +8,4 @@ date: 2024-10-01
 location: "Salzburg, Austria"
 ---
 
-Logik I: Aussagenlogik (in German), BA Tutorial, Winter Semester 24/25.
+Logik I: Aussagenlogik (in German), BA Tutorial, WS24/25.
