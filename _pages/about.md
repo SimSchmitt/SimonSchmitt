@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm Simon, a Logician and Philosopher. I hold a BA in Philosophy from the University of Heidelberg (2019) and an MA in Logic and Philosophy of Science from the MCMP in Munich (2021). Currently, I am a PhD candidate at the Center for Logic, Language, and Cognition (LLC) at the University of Turin and a Lecturer in Logic at the University of Salzburg.
+
+I am a Logician and Philosopher. I hold a BA in Philosophy from the University of Heidelberg (2019) and an MA in Logic and Philosophy of Science from the MCMP in Munich (2021). Currently, I am a PhD candidate at the Center for Logic, Language, and Cognition (LLC) at the University of Turin and a Lecturer in Logic at the University of Salzburg.
 
 My primary research interests are in logic and the philosophy of mathematics, with a particular focus on the philosophy of set theory, theories of truth, and proof theory. I also have a strong interest in the philosophy of language.
 
