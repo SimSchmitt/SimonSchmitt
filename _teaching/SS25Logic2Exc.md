@@ -8,4 +8,4 @@ date: 2025-03-01
 location: "Salzburg, Austria"
 ---
 
-Logik II: Prädikatenlogik (in German), BA Tutorial, Summer Semester 25.
+Logik II: Prädikatenlogik (in German), BA Tutorial, SS25.
