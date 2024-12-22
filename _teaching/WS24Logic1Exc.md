@@ -8,4 +8,4 @@ date: 2024-10-01
 location: "Salzburg, Austria"
 ---
 
-Logic 1, Propositional Logic
+Logic 1, Propositional Logic, Exercise Class, Winter Semester 24/25, 2h/week.
