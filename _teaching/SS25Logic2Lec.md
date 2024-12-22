@@ -1,5 +1,5 @@
 ---
-title: "Logic 2, Predicate Logic"
+title: "Logik II: Prädikatenlogik"
 collection: teaching
 type: "Leture"
 permalink: /teaching/SS25Logic2Lec
@@ -8,4 +8,4 @@ date: 2025-03-01
 location: "Salzburg, Austria"
 ---
 
-Logic 2, Predicate Logic
+Logik II: Prädikatenlogik (in German), BA Lecture Course, SS25.
