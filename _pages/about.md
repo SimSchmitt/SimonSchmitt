@@ -12,4 +12,4 @@ My primary research interests are in logic and the philosophy of mathematics, wi
 
 I am writing my PhD thesis under the supervision of Andrea Iacona and Lorenzo Rossi. In my thesis, I develop a novel, intermediate position between generality absolutism and generality relativism, and apply it to theories of truth and set theory.
 
-Apart from my thesis, I work on several other projects. These include a paper on Feferman's unfolding program (co-authored with Martin Fischer and David Hofmann), an application of contextualism to set theory (with Lorenzo Rossi and Chris Scrambler), and a paper on the Universe-Multiverse debate in set theory (with Matteo de Ceglie).
+Beyond my thesis, I work on several other projects. These include a paper on Feferman's unfolding program (co-authored with Martin Fischer and David Hofmann), an application of contextualism to set theory (with Lorenzo Rossi and Chris Scrambler), and a paper on the Universe-Multiverse debate in set theory (with Matteo de Ceglie).
